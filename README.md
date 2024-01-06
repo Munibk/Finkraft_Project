@@ -14,13 +14,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-###src
-this folder containes the componenets  for spaceVue porject
+### `src`
+
+this folder containes the componenets  for spaceVue porject.
+
 dashboard.js:
-  it gives the mission data in tabular format and pie chart based on mission succesful value
+  it gives the mission data in tabular format and pie chart based on mission succesful value.
+  
 piechart.js:
-  This componenet is used to generate the piechart based on provieded data
+  This componenet is used to generate the piechart based on provieded data.
+  
 login.js:
-  This is initial login page with hardcoded authentication
+  This is initial login page with hardcoded authentication.
+  
   Username: admin
   password: password
